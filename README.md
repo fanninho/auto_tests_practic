@@ -1,2 +1,1 @@
-# auto_test_learn
-course auto test
+Практика написания автотестов на Python
